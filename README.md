@@ -32,4 +32,4 @@ XMarte simulates the experience of buying land on Mars, allowing users to explor
 2. The project will open in your default web browser, and you can interact with the XMarte website from there.
 
 ## Credits
-The project was developed by @AndersonAlves210, @Caidugg, Elias Lima, @j0jds and @jonathanspereira.
+The project was developed by @AndersonAlves210, @Caidugg, @EliasARL, @j0jds and @jonathanspereira.
